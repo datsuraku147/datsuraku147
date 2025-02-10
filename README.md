@@ -1,16 +1,29 @@
-## Hi there 👋
+# Guni-guni ng isang gamu gamo :D
 
-<!--
-**datsuraku147/datsuraku147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi :D 
 
-Here are some ideas to get you started:
+I'm 19, from the Philippines, and a self-taught security researcher. I occasionally do bug bounty for fun and (profit :P)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies:
+ - Music (every day!!!)
+ - Watching Running Man
+ - Writing
+ - Reading
+ - Hacking I guess...
+
+## Life Goals: 
+
+* Get invited to a live hacking event
+* Have a studio and library
+* Live in my own house and have a small farm
+* Be able to sleep without worrying about the future
+
+**Current Goal: Be active in CTFs, upskill, and write about security-related stuff :P**
+
+
+## Find more about me here:
+
+- **[Blog](https://datsuraku147.github.io)**
+- **[HackerOne](https://hackerone.com/datsuraku147)**
+- **[Twitter](https://twitter.com/MDatsuraku)**
+- **Email - mizudatsuraku07@gmail.com**
