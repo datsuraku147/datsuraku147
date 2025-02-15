@@ -2,7 +2,7 @@
 
 Hi :D 
 
-I'm 19, from the Philippines, and a self-taught security researcher. I occasionally do bug bounty for fun and (profit :P)
+I’m 20, from the Philippines, and a self-taught security researcher. I occasionally do bug bounty hunting for fun and (profit :P).
 
 ## Hobbies:
  - Music (every day!!!)
