@@ -23,4 +23,4 @@ I’m 20 and I'm a wannabe security researcher.
 - **Email - mizudatsuraku07@gmail.com**
 
 
-Music, Manga, Manhwa, Manhua, Anime, Running Man, and Movies shaped me.
+*Music, Manga, Manhwa, Manhua, Anime, Running Man, and Movies shaped me :P*
