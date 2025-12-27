@@ -1,5 +1,7 @@
 # Guni-guni ng isang gamu gamo :D
 
+I'm a wannabe security researcher :P
+
 - **[Blog](https://blog.datsuraku.org/)**
 - **[HackerOne](https://hackerone.com/datsuraku147)**
 - **[Github](https://github.com/datsuraku147)**
